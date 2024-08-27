@@ -1,3 +1,3 @@
 # AI-Hackathon
 
-This project is for Microsoft 2024 hackathon held in Seattle.
+![image](https://github.com/user-attachments/assets/beaafcfe-5293-4236-8c77-3ff6e260a4dc)
